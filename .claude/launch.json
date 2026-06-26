@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ladder-game",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "ladder-game"],
+      "port": 3456,
+      "autoPort": true
+    }
+  ]
+}
